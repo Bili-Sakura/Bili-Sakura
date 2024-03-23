@@ -1,24 +1,49 @@
-<picture style="display: block; margin: 0 auto;">
- <source media="(prefers-color-scheme: dark)" srcset="./assets/sakuraIcon_round.jpg">
- <source media="(prefers-color-scheme: light)" srcset="./assets/sakuraIcon_round.jpg">
- <img alt="YOUR-ALT-TEXT" src="./assets/sakuraIcon_round.jpg">
-</picture>
+<p align="center">
+<br/>
 
-[![Github](https://img.shields.io/badge/GitHub-Bili&#8209;Sakura-000000?logo=github)](https://github.com/Bili-Sakura)
-[![Bilibili](https://img.shields.io/badge/Bilibili-小孩梓Sakura-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/335334097)
+<a href="https://github.com/Bili-Sakura">
+    <img src="https://img.shields.io/badge/GitHub-Bili&#8209;Sakura-000000?logo=github">
+</a> 
+<a href="https://space.bilibili.com/335334097">
+    <img src="https://img.shields.io/badge/Bilibili-小孩梓Sakura-00A1D6?logo=bilibili&logoColor=white">
+</a> 
+<a href="bili_sakura@zju.edu.cn">
+    <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<br/>
+<a href="https://github.com/Bili-Sakura">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Bili-Sakura&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+</p>
+
+* 📖 A Data Scientist from [Zhejiang University](https://www.zju.edu.cn/english/). 
+
+* 🎓 Conducting research on **AI** and **Natual Language Process**.
+
+* 🎯 Top Gamer & Researcher in Don't Starve Together.
+
+### 🖥️ Open-Source Projects
+<table>
+<tr><td>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [DST-GPT](https://github.com/Bili-Sakura/DSTGPT) | <img alt="Stars" src="https://img.shields.io/github/stars/Bili-Sakura/DSTGPT?style=flat-square&labelColor=black"/> | ![OpenAI](https://img.shields.io/badge/-openai-black?style=flat-square&logo=openai&logoColor=white)|
+| [Chat-Anything-Robot](https://github.com/Bili-Sakura/Chat-Anything-Robot) | <img alt="Stars" src="https://img.shields.io/github/stars/Bili-Sakura/Chat-Anything-Robot?style=flat-square&labelColor=black"/> | ![OpenAI](https://img.shields.io/badge/-openai-black?style=flat-square&logo=openai&logoColor=white)
+</td></tr> </table>
 
 
-<!--
-**Bili-Sakura/Bili-Sakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
 
-Here are some ideas to get you started:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bili-Sakura&theme=dracula) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bili-Sakura&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bili-Sakura&theme=dracula)
+
+
+
+
+</details>
