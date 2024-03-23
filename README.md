@@ -1,9 +1,12 @@
-### Hi there 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+<picture style="display: block; margin: 0 auto;">
+ <source media="(prefers-color-scheme: dark)" srcset="./assets/sakuraIcon_round.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="./assets/sakuraIcon_round.jpg">
+ <img alt="YOUR-ALT-TEXT" src="./assets/sakuraIcon_round.jpg">
 </picture>
+
+[![Github](https://img.shields.io/badge/GitHub-Bili&#8209;Sakura-000000?logo=github)](https://github.com/Bili-Sakura)
+[![Bilibili](https://img.shields.io/badge/Bilibili-小孩梓Sakura-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/335334097)
+
 
 <!--
 **Bili-Sakura/Bili-Sakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
