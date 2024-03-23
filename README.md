@@ -7,7 +7,7 @@
 <a href="https://space.bilibili.com/335334097">
     <img src="https://img.shields.io/badge/Bilibili-小孩梓Sakura-00A1D6?logo=bilibili&logoColor=white">
 </a> 
-<a href="bili_sakura@zju.edu.cn">
+<a href="mailto:bili_sakura@zju.edu.cn">
     <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <br/>
