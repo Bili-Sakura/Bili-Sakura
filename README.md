@@ -19,34 +19,36 @@
 </a>
 </p>
 
-* 📖 A Data Scientist from [Zhejiang University](https://www.zju.edu.cn/english/). 
+## 👤 About Me
 
-* 🎓 Conducting research on **AI** and **Natual Language Process**.
+🎓 Master’s Student at the **School of Earth Science, Zhejiang University**
 
-* 🎯 Top Gamer & Researcher in Don't Starve Together.
+🌏 **Field of Interest:**
+- Applications of **Multimodal Large Language Models (MLLMs)** & **Diffusion Models**
+  - Text-to-Image Generation
+  - Image Editing
+- Focus: **Remote Sensing** 🚀🛰️
 
-### 🖥️ Open-Source Projects
-<table>
-<tr><td>
+🌟 *Passionate about Gen AI Techniques and AI News!*
 
-|Title | Stars | Technologies|
-|--|--|--|
-| [DST-GPT](https://github.com/Bili-Sakura/DSTGPT) | <img alt="Stars" src="https://img.shields.io/github/stars/Bili-Sakura/DSTGPT?style=flat-square&labelColor=black"/> | ![OpenAI](https://img.shields.io/badge/-openai-black?style=flat-square&logo=openai&logoColor=white)|
-| [Chat-Anything-Robot](https://github.com/Bili-Sakura/Chat-Anything-Robot) | <img alt="Stars" src="https://img.shields.io/github/stars/Bili-Sakura/Chat-Anything-Robot?style=flat-square&labelColor=black"/> | ![OpenAI](https://img.shields.io/badge/-openai-black?style=flat-square&logo=openai&logoColor=white)
-</td></tr> </table>
-
-
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bili-Sakura&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bili-Sakura&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bili-Sakura&theme=dracula)
+🌐 [**Homepage**](https://bili-sakura.github.io/)
 
 
 
 
-</details>
+
+<p align="center">
+  <br/>
+  📈 GitHub Stats
+  <br/><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bili-Sakura&theme=dracula" alt="Profile Details" />
+  <br/><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bili-Sakura&theme=dracula" alt="Top Languages by Repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bili-Sakura&theme=dracula" alt="Top Languages by Commit" />
+</p>
+
+
+
+
+
+
