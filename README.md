@@ -13,11 +13,15 @@
 <a href="mailto:bili_sakura@zju.edu.cn">
     <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white">
 </a>
+<a href="https://scholar.google.com/citations?user=14lyEj8AAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Sakura-4285F4?logo=google-scholar&logoColor=white">
+</a>
 <br/>
 <a href="https://github.com/Bili-Sakura">
     <img src="https://github-stats-alpha.vercel.app/api?username=Bili-Sakura&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
+
 
 ## 👤 About Me
 
