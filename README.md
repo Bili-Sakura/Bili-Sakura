@@ -28,10 +28,10 @@
 🎓 Master’s Student at the **School of Earth Science, Zhejiang University**
 
 🌏 **Field of Interest:**
-- Applications of **Multimodal Large Language Models (MLLMs)** & **Diffusion Models**
-  - Text-to-Image Generation
-  - Image Editing
-- Focus: **Remote Sensing** 🚀🛰️
+- Remote Sensing
+- Vision Language Modeling
+- Diffusion Models
+- Machine Learning Theory
 
 🌟 *Passionate about Gen AI Techniques and AI News!*
 
