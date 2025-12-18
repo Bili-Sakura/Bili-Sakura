@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manifold Learning - Blog</title>
+    <!-- Katex CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV" crossorigin="anonymous">
+    <!-- Katex JS -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG+vnGctmUb0ZY0l8" crossorigin="anonymous"></script>
+    <!-- Auto-render extension -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            renderMathInElement(document.body, {
+                // customized options
+                // • auto-render specific keys, e.g.:
+                delimiters: [
+                    {left: '$$', right: '$$', display: true},
+                    {left: '$', right: '$', display: false},
+                    {left: '\\(', right: '\\)', display: false},
+                    {left: '\\[', right: '\\]', display: true}
+                ],
+                // • rendering keys, e.g.:
+                throwOnError : false
+            });
+        });
+    </script>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333; }
+        h1, h2, h3 { color: #111; }
+        figure { margin: 2em 0; text-align: center; border: 1px solid #eee; padding: 10px; border-radius: 8px; }
+        figcaption { font-style: italic; color: #666; margin-top: 10px; }
+        code { background: #f4f4f4; padding: 2px 5px; border-radius: 3px; }
+    </style>
+</head>
+<body>
+    <article>
+        <h1>Manifold Learning</h1>
+        <p>
+            Manifold learning is a fascinating area of machine learning and statistics that focuses on non-linear dimensionality reduction. The core assumption is that the high-dimensional data we observe, let's say $X \in \mathbb{R}^D$, actually lies on a lower-dimensional manifold $\mathcal{M}$ of intrinsic dimension $d < D$.
+        </p>
+
+        <h2>The Manifold Hypothesis</h2>
+        <p>
+            The Manifold Hypothesis states that real-world high-dimensional data (like images, speech signals, etc.) lie on low-dimensional manifolds embedded within the high-dimensional space.
+        </p>
+        <p>
+            Mathematically, we are looking for a mapping $f: \mathcal{M} \to \mathbb{R}^d$ that preserves certain properties of the data, such as local geometry.
+        </p>
+
+        <figure>
+            <div style="width: 100%; height: 200px; background: #f9f9f9; display: flex; align-items: center; justify-content: center; font-family: monospace; color: #aaa;">
+                [Visualization of Swiss Roll]
+            </div>
+            <figcaption>
+                Figure 1: The "Swiss Roll" dataset, a classic example of a 2D manifold embedded in $\mathbb{R}^3$. The Euclidean distance in $\mathbb{R}^3$ does not reflect the intrinsic distance along the manifold.
+            </figcaption>
+        </figure>
+
+        <h2>Mathematical Formulation</h2>
+        <p>
+            Given a set of points $\{x_1, \dots, x_N\} \subset \mathbb{R}^D$, we aim to find corresponding coordinates $\{y_1, \dots, y_N\} \subset \mathbb{R}^d$.
+        </p>
+        
+        <h3>Isomap</h3>
+        <p>
+            Isomap (Isometric Mapping) tries to preserve the geodesic distances between all pairs of points. The geodesic distance $d_\mathcal{M}(x_i, x_j)$ is approximated by the shortest path distance in a nearest-neighbor graph.
+        </p>
+        <p>
+            The algorithm proceeds in three steps:
+        </p>
+        <ol>
+            <li>Construct a neighborhood graph $G$.</li>
+            <li>Compute shortest paths between all pairs to approximate geodesic distances.</li>
+            <li>Use Multidimensional Scaling (MDS) to embed the data into $\mathbb{R}^d$.</li>
+        </ol>
+
+        <h3>Locally Linear Embedding (LLE)</h3>
+        <p>
+            LLE assumes that each data point and its neighbors lie on or close to a locally linear patch of the manifold. We can reconstruct each point $x_i$ from its neighbors $x_j$:
+        </p>
+        $$ x_i \approx \sum_{j \in \mathcal{N}(i)} w_{ij} x_j $$
+        <p>
+            subject to $\sum_j w_{ij} = 1$. The weights $W$ characterize the local geometry, which is then preserved in the low-dimensional embedding.
+        </p>
+
+    </article>
+</body>
+</html>
