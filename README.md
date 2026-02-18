@@ -37,6 +37,19 @@
 
 🌐 [**Homepage**](https://bili-sakura.github.io/)
 
+## ⏳ Year Progress
+
+<!-- YEAR_PROGRESS_START -->
+{ ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.00%
+Updated: Wed, 18 Feb 2026 00:00:00 GMT
+<!-- YEAR_PROGRESS_END -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bili-Sakura/Bili-Sakura/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bili-Sakura/Bili-Sakura/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bili-Sakura/Bili-Sakura/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 
