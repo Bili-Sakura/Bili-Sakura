@@ -25,7 +25,7 @@
 
 ## 👤 About Me
 
-🎓 Master’s Student at the **School of Earth Science, Zhejiang University**
+🎓 PhD Student at the **School of Earth Science, Zhejiang University**
 
 🌏 **Field of Interest:**
 - Remote Sensing
